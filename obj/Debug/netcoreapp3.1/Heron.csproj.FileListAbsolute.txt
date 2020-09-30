@@ -1,0 +1,13 @@
+C:\Users\Acer\Documents\aulapc\Heron\bin\Debug\netcoreapp3.1\Heron.exe
+C:\Users\Acer\Documents\aulapc\Heron\bin\Debug\netcoreapp3.1\Heron.deps.json
+C:\Users\Acer\Documents\aulapc\Heron\bin\Debug\netcoreapp3.1\Heron.runtimeconfig.json
+C:\Users\Acer\Documents\aulapc\Heron\bin\Debug\netcoreapp3.1\Heron.runtimeconfig.dev.json
+C:\Users\Acer\Documents\aulapc\Heron\bin\Debug\netcoreapp3.1\Heron.dll
+C:\Users\Acer\Documents\aulapc\Heron\bin\Debug\netcoreapp3.1\Heron.pdb
+C:\Users\Acer\Documents\aulapc\Heron\obj\Debug\netcoreapp3.1\Heron.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\aulapc\Heron\obj\Debug\netcoreapp3.1\Heron.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\aulapc\Heron\obj\Debug\netcoreapp3.1\Heron.AssemblyInfo.cs
+C:\Users\Acer\Documents\aulapc\Heron\obj\Debug\netcoreapp3.1\Heron.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\aulapc\Heron\obj\Debug\netcoreapp3.1\Heron.dll
+C:\Users\Acer\Documents\aulapc\Heron\obj\Debug\netcoreapp3.1\Heron.pdb
+C:\Users\Acer\Documents\aulapc\Heron\obj\Debug\netcoreapp3.1\Heron.genruntimeconfig.cache
